@@ -1,0 +1,34 @@
+{
+  "file": "fan_speed3_fault.npy",
+  "fs": 1000,
+  "columns": [
+    "ax",
+    "ay",
+    "az"
+  ],
+  "units": "g",
+  "samples": 30000,
+  "wall_seconds": 30.03,
+  "missed_samples": 2,
+  "bad_lines": 0,
+  "i2c_errors": 2,
+  "captured_at": "2026-10-08T16:01:00",
+  "note": "speed 3, binder clip on blade",
+  "axes": {
+    "ax": {
+      "mean_g": 0.026199370622634888,
+      "std_g": 1.3543250560760498,
+      "peak_hz": 23.03333333333333
+    },
+    "ay": {
+      "mean_g": 1.0163413286209106,
+      "std_g": 0.6587111949920654,
+      "peak_hz": 23.03333333333333
+    },
+    "az": {
+      "mean_g": -0.10887514054775238,
+      "std_g": 0.267349511384964,
+      "peak_hz": 23.0
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "file": "fan_speed2_test.npy",
+  "fs": 1000,
+  "columns": [
+    "ax",
+    "ay",
+    "az"
+  ],
+  "units": "g",
+  "samples": 30000,
+  "wall_seconds": 30.03,
+  "missed_samples": 18,
+  "bad_lines": 2,
+  "i2c_errors": 18,
+  "captured_at": "2026-10-04T19:37:11",
+  "note": "speed 2, no weight",
+  "axes": {
+    "ax": {
+      "mean_g": 0.06431370973587036,
+      "std_g": 0.09603305906057358,
+      "peak_hz": 26.099999999999998
+    },
+    "ay": {
+      "mean_g": 1.0213534832000732,
+      "std_g": 0.08482188731431961,
+      "peak_hz": 26.099999999999998
+    },
+    "az": {
+      "mean_g": -0.11678758263587952,
+      "std_g": 0.027211850509047508,
+      "peak_hz": 26.099999999999998
+    }
+  }
+}

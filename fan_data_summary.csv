@@ -1,0 +1,8 @@
+case,condition,file,samples,note,ax_mean_g,ax_std_g,ax_dom_hz,ay_mean_g,ay_std_g,ay_dom_hz,az_mean_g,az_std_g,az_dom_hz
+off,healthy,fan_off.npy,30000,"mounted, fan off",0.0633,0.00409,7.8,1.0206,0.0071,30.3,-0.1248,0.0078,30.3
+speed 1,healthy,fan_speed1_test.npy,30000,"speed 1, no weight",0.0632,0.20885,20.5,1.0209,0.02129,61.5,-0.1214,0.01456,20.5
+speed 1,fault,fan_speed1_fault.npy,30000,"speed 1, binder clip on blade",0.0302,0.25476,15.6,1.0229,0.10112,15.6,-0.0931,0.08446,15.6
+speed 2,healthy,fan_speed2_test.npy,30000,"speed 2, no weight",0.0643,0.09603,26.4,1.0214,0.08482,26.4,-0.1168,0.02721,26.4
+speed 2,fault,fan_speed2_fault.npy,30000,"speed 2, binder clip on blade",0.0248,0.80877,20.5,1.0217,0.46402,20.5,-0.1118,0.19787,20.5
+speed 3,healthy,fan_speed3_test.npy,30000,"speed 3, no weight",0.0628,0.1153,32.2,1.0214,0.31751,32.2,-0.1162,0.04561,32.2
+speed 3,fault,fan_speed3_fault.npy,30000,"speed 3, binder clip on blade",0.0262,1.35433,23.4,1.0163,0.65871,23.4,-0.1089,0.26735,23.4

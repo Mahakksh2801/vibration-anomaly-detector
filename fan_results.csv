@@ -1,0 +1,7 @@
+case,condition,windows,maha_median,maha_detect_pct,ae_median,ae_detect_pct,maha_auc,ae_auc,maha_margin,ae_margin
+speed 1,healthy,233,6.2862,6.01,0.010626,5.58,,,,
+speed 1,fault,233,2443.4225,100.0,16.05216,100.0,1.0,1.0,193.311,637.289
+speed 2,healthy,233,4.7822,1.72,0.006784,0.43,,,,
+speed 2,fault,233,4181.1056,100.0,30.786042,100.0,1.0,1.0,330.788,1222.241
+speed 3,healthy,233,3.6271,0.0,0.0046,0.0,,,,
+speed 3,fault,233,10778.5114,100.0,85.443439,100.0,1.0,1.0,852.742,3392.202
